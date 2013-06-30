@@ -1,0 +1,65 @@
+!!! 5
+
+//[if lt IE 7 ]> <html class="no-js ie6" lang="en"> <![endif]
+//[if IE 7 ]>    <html class="no-js ie7" lang="en"> <![endif]
+//[if IE 8 ]>    <html class="no-js ie8" lang="en"> <![endif]
+//[if (gte IE 9)|!(IE)]><!--> <html class="no-js" lang="en"> <!--<![endif]
+
+head
+  meta(charset="utf-8")
+  meta(http-equiv="X-UA-Compatible", content="IE=edge,chrome=1")
+
+
+  //title
+  title #{title}
+
+
+  // meta data
+  meta(name="description", content="")
+  meta(name="author", content="")
+  meta(name="viewport", content="width=device-width, initial-scale=1.0")
+
+
+  // favorite icon
+  link(rel="shortcut icon", href="/favicon.ico")
+  link(rel="apple-touch-icon", href="/apple-touch-icon.png")
+
+
+  // stylesheets
+  link(rel="stylesheet", href="/css/core.css")
+
+
+
+// BODY
+
+body
+  div#container
+
+    // body
+    div.main(role="main")!= body
+    
+    //footer
+    footer
+
+
+
+  // JAVASCRIPT
+
+  // Scripts
+  script(src="//ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.js")
+  script(src="/javascripts/underscore-min.js")
+  script(src="/javascripts/backbone-min.js")
+  script(src="/javascripts/core.js")
+
+
+  // socket.io
+  script(src="/socket.io/socket.io.js")
+
+  script
+    var socket = new io.Socket();
+    socket.connect();
+
+    // how to handle incoming
+    socket.on('message', function (data) {
+      $('body').append(data.message+'<br />');
+    });

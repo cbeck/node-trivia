@@ -1,0 +1,231 @@
+{
+	question:"Which Seinfeld star was the voice of Hugo in The Hunchback of %0A%09%09%09Notre Dame%3F%A0",
+	answers:["Jason Alexander."]
+},
+{
+	question:"Which show was originally called These Friends of Mine%3F%A0",
+	answers:["Ellen."]
+},
+{
+	question:"Which sitcom was based on a show called Love American Style%3F%A0",
+	answers:["Happy Days."]
+},
+{
+	question:"Who was creator and executive producer of Murphy Brown%3F%A0",
+	answers:["Diane English."]
+},
+{
+	question:"Who produced The Phi Slivers Show%3F%A0",
+	answers:["Nat Hiken."]
+},
+{
+	question:"Detectives Al Burkhardt and Sandy Galloway were in which sitcom%3F%A0",
+	answers:["Pacific Station."]
+},
+{
+	question:"Which tragic actress appeared in The Beverly Hillbillies as bank %0A%09%09%09secretary Janet Treago%3F%A0",
+	answers:["%22Sharon Tate."]
+},
+{
+	question:"What was Laverne %26 Shirley%27s address%3F%A0",
+	answers:["730 Hampton Street."]
+},
+{
+	question:"What were the dads called in My Two Dads%3F%A0",
+	answers:["Michael Taylor %26 Joey Harris."]
+},
+{
+	question:"Who won an Emmy for his role as a marriage counselor in Cheers%3F%A0",
+	answers:["John Cleese."]
+},
+{
+	question:"Who was the star of My Mother The Car%3F%A0",
+	answers:["Jerry Van Dyke."]
+},
+{
+	question:"The setting of Laverne %26 Shirley was during the government of %0A%09%09%09which President%3F%A0",
+	answers:["Eisenhower."]
+},
+ 
+{
+	question:"What is the postal abbreviation for Texas%3F%A0",
+	answers:[" TX. %0A"]
+},
+{
+	question:"William Henry Gates III amassed his fortune from which source%3F%A0",
+	answers:[" Computer Software.%0A"]
+},
+{
+	question:"In basketball%2C where do the Supersonics come from%3F%A0",
+	answers:[" Seattle.%0A"]
+},
+{
+	question:"What is the postal abbreviation for Pennsylvania%3F%A0",
+	answers:[" PA.%0A"]
+},
+{
+	question:"What is Ohio%27s largest city%3F%A0",
+	answers:[" Columbus.%0A"]
+},
+{
+	question:"What is the largest of the Southern states%3F%A0",
+	answers:[" Florida."]
+},
+{
+	question:"What type of creature was the star of the film Jaws%3F%A0",
+	answers:[" Shark.%0A"]
+},
+{
+	question:"In which country was a 2000 year old%2C life size terracotta army discovered%3F%A0",
+	answers:[" China.%0A"]
+},
+{
+	question:"Which state is called the Great Lake State%3F%A0",
+	answers:[" Michigan.%0A"]
+},
+{
+	question:"Where in America was the world%27s biggest rock festival staged%3F%A0",
+	answers:[" Woodstock.%0A"]
+},
+{
+	question:"What is the capital of the state of Alaska%3F%A0",
+	answers:[" Juneau.%0A"]
+},
+{
+	question:"What does the B stand for in SCUBA diving%3F%A0",
+	answers:[" Breathing.%0A"]
+},
+{
+	question:"Which state is called the Bear State%3F%A0",
+	answers:[" Arkansas.%0A"]
+},
+{
+	question:"Which Texan Governor was traveling with the Kennedys when JFK was shot%3F%A0",
+	answers:[" Connolly.%0A"]
+},
+{
+	question:"Who was the first man to set foot on the moon%3F%A0",
+	answers:[" Neil Armstrong.%0A"]
+},
+{
+	question:"Which state is called the Panhandle State%3F%A0",
+	answers:[" West Virginia.%0A"]
+},
+{
+	question:"What is the capital of the state of Virginia%3F%A0",
+	answers:[" Richmond.%0A"]
+},
+{
+	question:"Why%A0 was Mick Dundee nicknamed Crocodile%3F%A0",
+	answers:[" He survived a crocodile attack.%0A"]
+},
+{
+	question:"Where was the second Atom bomb dropped%3F%A0",
+	answers:[" Nagasaki.%0A"]
+},
+{
+	question:"Where was a wall built to divide a city%3F%A0",
+	answers:[" Berlin.%0A"]
+},
+{
+	question:"What is Minneapolis%27s %27twin city%27%3F%A0",
+	answers:[" St. Paul.%0A"]
+},
+{
+	question:"Which is the other northern Pacific state along with Washington%3F%A0",
+	answers:[" Oregon.%0A"]
+},
+ 
+{
+	question:"What is the postal abbreviation for California%3F%A0",
+	answers:["CA."]
+},
+{
+	question:"Who declared%2C %22The lady%27s not for turning%22%3F%A0",
+	answers:["Margaret Thatcher."]
+},
+{
+	question:"What was George that left a trail of destruction in Florida in %0A%09%09%091998%3F%A0",
+	answers:["Hurricane."]
+},
+{
+	question:"Which machine%27s name comes from some letters in the words %0A%09%09%09%27general purpose%27%3F%A0",
+	answers:["Jeep."]
+},
+{
+	question:"The Louise Woodward affair was tried in which country%3F%A0",
+	answers:["United States."]
+},
+{
+	question:"Which Jane starred in Klute and Nine To Five%3F%A0",
+	answers:["Fonda."]
+},
+{
+	question:"In Notting Hill what does the Hugh Grant character deal in%3F%A0",
+	answers:["Books."]
+},
+{
+	question:"In which decade of the 20th century was Kevin Costner born%3F%A0",
+	answers:["1950s."]
+},
+{
+	question:"Henry Ford claimed that%2C %22History is...%22 what%3F%A0",
+	answers:["Bunk."]
+},
+{
+	question:"Circle of Life came from which film%3F%A0",
+	answers:["The Lion King."]
+},
+{
+	question:"In a movie title Elvis Presley said Viva to where%3F%A0",
+	answers:["Las Vegas."]
+},
+{
+	question:"Johnny Cash recorded a number of live albums at what unusual %0A%09%09%09institutions%3F%A0",
+	answers:["Prisons."]
+},
+{
+	question:"What is the postal abbreviation for Minnesota%3F%A0",
+	answers:["MN."]
+},
+{
+	question:"In which country is Ciampino airport%3F%A0",
+	answers:["Italy."]
+},
+{
+	question:"Rupert Murdoch comes from which country%3F%A0",
+	answers:["Australia."]
+},
+{
+	question:"The sale of what was prohibited in America during prohibition%3F%A0",
+	answers:["Alcohol."]
+},
+{
+	question:"What is the postal abbreviation for Tennessee%3F%A0",
+	answers:["TN."]
+},
+{
+	question:"Which Landings were the subject of Saving Private Ryan%3F%A0",
+	answers:["D Day."]
+},
+{
+	question:"In February 1996 the Princess of Wales agreed to Prince Charles%27 %0A%09%09%09request for what%3F%A0",
+	answers:["Divorce."]
+},
+{
+	question:"Which spinach-eating sailor has Robin Williams played on the %0A%09%09%09film%3F%A0",
+	answers:["Popeye."]
+},
+{
+	question:"In the 90s which European country had a King Albert%3F%A0",
+	answers:["Belgium."]
+},
+{
+	question:"Which member of her staff did Celine Dion marry in 1994%3F%A0",
+	answers:["Manager."]
+},
+{
+	question:"What is the postal abbreviation for Mississippi%3F%A0",
+	answers:["MS."]
+},
+ 
